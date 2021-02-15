@@ -9,7 +9,7 @@ Project to find fraudulent transactions from Credit Card transactions
 performed:
   	1. Reject transactions with a history of FRAUD
   	2. Get ucl, score, pc & tdt info from lookup table
-  	3. Check the memscore & UCL threshold
+  	3. Check the memscore & UCL threshold ( UCL = (Moving Average) + 3 * (Standard Deviation) )
   	4. Calc distance traveled btw prev and current transactions 
   	5. Reject transaction if memberScoreThreshold < 200
   	6 Reject transaction if memberSpeedThreshold > 0.25
