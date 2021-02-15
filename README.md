@@ -1,6 +1,6 @@
 # CreditCardFraudDetection
 Project to find fraudulent transactions from Credit Card transactions 
-LOGIC
+  LOGIC
 1. Created a utility class to store the parsed data from JSON
 2. Created JavaInput Dstream using Kafka Parameters
 3. Converted whole strings to individual line of JSON object
