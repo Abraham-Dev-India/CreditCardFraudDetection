@@ -19,6 +19,7 @@ performed:
 # DATA SAMPLE
 
 {
+
 “card_id”:348702330256514,
 
 “member_id”: 000037495066290,
