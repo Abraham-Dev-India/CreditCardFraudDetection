@@ -15,3 +15,20 @@ performed:
   	6 Reject transaction if memberSpeedThreshold > 0.25
   	7. Update the lookup table with postcode & date for GENUINE transactions
   	8. Update the card_trans table
+    
+# DATA SAMPLE
+
+{
+“card_id”:348702330256514,
+
+“member_id”: 000037495066290,
+
+“amount”: 9084849,
+
+“pos_id”: 614677375609919,
+
+“postcode”: 33946,
+
+“transaction_dt”: “11-02-2018 00:00:00”
+
+}
